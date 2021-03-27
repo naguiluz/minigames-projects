@@ -108,7 +108,7 @@ while not game_over:
                      #   break
 
 
-    #print_board(board)
+            #print_board(board)
 
-    #turn += 1
-    #turn = turn % 2
+            #turn += 1
+            #turn = turn % 2
